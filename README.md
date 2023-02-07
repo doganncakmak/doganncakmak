@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doğan</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate Full-Stack Developer from Türkiye</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
